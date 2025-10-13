@@ -2034,7 +2034,7 @@ argArgs;
       }
       if (isNumber(node) &&
           (hd() === TK_FRAC || hd() === TK_NUM && lookahead() === TK_SLASH)) {
-        const frac = fractionExpr();
+        let frac = fractionExpr();
         if (isDerivative(frac)) {
           return derivativeNode(frac);
         }
