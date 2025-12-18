@@ -1,5 +1,5 @@
 {
-  "name": "@artcompiler/parselatex",
+  "name": "@graffiticode/parselatex",
   "type": "module",
   "version": "1.7.7",
   "description": "A library for parsing LaTeX",
@@ -11,9 +11,9 @@
   "author": "https://github.com/jeffdyer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/artcompiler/parselatex/issues"
+    "url": "https://github.com/graffiticode/parselatex/issues"
   },
-  "homepage": "https://github.com/artcompiler/parselatex#readme",
+  "homepage": "https://github.com/graffiticode/parselatex#readme",
   "engines": {
     "node": ">=21.*",
     "npm": ">=10.*"

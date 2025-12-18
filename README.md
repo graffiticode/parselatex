@@ -32,6 +32,6 @@ where `./parselatex` refers to the directory that contains this repo.
 #### CALLING
 
 ```javascript
-import {Parser} from '@artcompiler/parselatex'
+import {Parser} from '@graffiticode/parselatex'
 const node = Parser.parse('1 + 2');
 ```
